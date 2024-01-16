@@ -1,13 +1,12 @@
-# Web Starter
+# Die Clockenshpielen
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-starter)
 
 
-> Computers are dumb. Humans make them smart.
+> Super Secret Web App that displays teh current time
 
-Starter (boilerplate) for all future projects.
+##The Why
 
-## Why Does This Exist?
-* Don't with blank files
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+##The What
+
+##The How
